@@ -17,6 +17,6 @@ to execute the program type "pynuxos".
 
 ## INFO
 
-Version: PynuxOS v0.0.3
-Creator: RandomUser82746155293 
-Depends of: Python
+- Version: PynuxOS v0.0.3
+- Creator: RandomUser82746155293 
+- Depends of: Python
