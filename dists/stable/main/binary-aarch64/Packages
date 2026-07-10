@@ -1,0 +1,9 @@
+Package: pynuxos
+Version: 0.0.1
+Architecture: all
+Maintainer: idk
+Depends: python
+Description: PynuxOS - Una consola hecha en Python para Termux
+Filename: pool/pynuxos.deb
+Size: 2308
+SHA256: 40f265fb2dc0a1bee275f81b76cf50dbfb2173c74a8d57d4c25aa7b79dae55f7
