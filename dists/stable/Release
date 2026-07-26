@@ -5,3 +5,16 @@ Codename: stable
 Architectures: all
 Components: main
 Description: PynuxOS package repository
+Date: Sun, 26 Jul 2026 02:50:11 +0000
+MD5Sum:
+ 8f25433253565c98877dfbd95fde1fd1               38 Release
+ eb53565c01f46dcf575e5d6b39509485              341 main/binary-all/Packages
+SHA1:
+ 4aebb176de1024fafc7c2f464fb5981b13427685               38 Release
+ 8cbffee487593228e097b92d26413a6e2adc41e6              341 main/binary-all/Packages
+SHA256:
+ 3002b47ea405fadcbb304dfc6b4a7b0622f62edce0567f9f07f2b5cb6d30b6f8               38 Release
+ 187f2772e5993e0994400283444167912041a2c9c9a0412e378375259825c43f              341 main/binary-all/Packages
+SHA512:
+ c7cc8447d73f683a5063f5998018aeb7e1069b3a8211ac19448b99a49c613067cb892dedbc663a95dac3b3a8a5435f85b7310773993c088ffc83018d047bb4f8               38 Release
+ 9444f6c48cffa9a2d65e61263adcce13eb05369ab8c4b3f7f1847d1af74b72423084e9a606f761f7c4724f6f1cedf5f1629522b9dc6a53e84ea97516053f663b              341 main/binary-all/Packages
