@@ -1,13 +1,13 @@
 Package: pynuxos
 Architecture: all
-Version: 1.0.2
+Version: 1.0.3
 Maintainer: RandomUser82746155293
 Depends: python
 Filename: pool/pynuxos.deb
-Size: 18360
-MD5sum: c2f722864c618dd5f438e0325dcb268b
-SHA1: eac26b5391ee18440c9a4a38dfae7a091431e2a7
-SHA256: 2f0f5959b8bbbbf65f7ef005d48e190c7ecf27ec07c22ef8d04bea2521f4a959
-SHA512: dc234704d344d21aa0f203c5aa91f26ccfe10a435ba550acaed32b1c23255b34bb746be3f27d3419493e149083ea51aebb8657d8509cd430de3cd31d64d948de
+Size: 18364
+MD5sum: b5b5e9817b5f29b3268969c897312674
+SHA1: 650de5df128485393243fc7deedda3fa1a442ac8
+SHA256: 1336aa3bf8a339bc9c0806a6c3e98a2790ec3a2940f6e879cc34452c55e89dd7
+SHA512: 4f3fea0245ce9d9607e7752005f8d59d9479add2ef928c410b5aa8960dc084778d8309523500fe7c71fffb895d477d948c8d91eeabf0c7e2749ce222eb5f6863
 Description: PynuxOS - A console made in Python for Termux
 
